@@ -13,6 +13,7 @@ void player::status() {
 	cout << "¼¼·Â     : " << partys[party] << endl << endl;
 
 	cout << "ÄªÈ£" << endl;
+
 	for (auto m : medal) {
 		cout << m << endl;
 	}
